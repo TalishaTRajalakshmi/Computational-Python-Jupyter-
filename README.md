@@ -1,4 +1,4 @@
-The work outlined involves strategic problem-solving in the oil and gas industry, leveraging skills such as data analytics, technological assessment, risk management, and environmental compliance. Key skills utilized include:
+This work outlines involves strategic problem-solving in the oil and gas industry, leveraging skills such as data analytics, technological assessment, risk management, and environmental compliance. 
 
 **Data Analytics:** 
 Using data to optimize well placement, drilling paths, and production forecasts, enhancing decision-making accuracy.
