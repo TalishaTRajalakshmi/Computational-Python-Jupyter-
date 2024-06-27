@@ -18,4 +18,10 @@ Conducting thorough geological assessments to identify and prioritize promising 
 **Strategic Planning:** 
 Formulating long-term strategies for geographical diversification, technological innovation, and partnerships to sustain profitability amidst evolving market dynamics.
 
+
+**Skills:** 
+
+Data Analysis, Predictive Modeling, Statistical Analysis, Machine Learning, Data Visualization, UI/UX Design, Interface Development, User Feedback Integration, Usability Testing, Strategic Analysis, Operational Efficiency Optimization, Growth Opportunity Identification and Stakeholder Communication.
+
+
 These skills collectively support informed decision-making, sustainable resource management, and competitive positioning within the dynamic oil and gas trading landscape.
